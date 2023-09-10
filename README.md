@@ -1,4 +1,5 @@
-### Hi there! My name is Karina Shah and I am currently pursuing a B.S. in Data Science at UC San Diego! I'm interested in all things business, AI, community service, and tennis. Feel free to reach out at k7shah@ucsd.edu!
+### 
+Hi there! My name is Karina Shah and I am currently pursuing a B.S. in Data Science at UC San Diego! I'm interested in all things business, AI, community service, and tennis. Feel free to reach out at k7shah@ucsd.edu!
 
 
 <!--
